@@ -1,0 +1,52 @@
+.d-flex button {
+  margin: 1.5em 0.6em;
+  padding: 0.5em 2.4em;
+}
+
+.d-flex table {
+  margin: 1em 10em;
+}
+
+table .btn-edit {
+  color: lightsalmon;
+  cursor: pointer;
+}
+
+.success {
+  padding: 1rem;
+  background-color: lightgreen;
+}
+
+.error {
+  padding: 1rem;
+  background-color: tomato;
+}
+
+.po-back {
+  text-decoration: none;
+  color: #000;
+}
+
+.post_Button {
+  margin: 24px 0 0 0;
+  background-color: #000;
+  color: #fff !important;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 50px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.post_Button :hover {
+  background-color: #12e6c8 !important;
+  color: #000 !important;
+}
+
+.loadABtn {
+  background-color: #12e6c8 !important;
+  border-color: #12e6c8 !important;
+  color: #000 !important;
+}
