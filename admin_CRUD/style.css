@@ -1,0 +1,32 @@
+.d-flex button {
+  margin: 1.5em 0.6em;
+  padding: 0.5em 2.4em;
+}
+
+.d-flex table {
+  margin: 1em 10em;
+}
+
+table .btn-edit {
+  color: lightsalmon;
+  cursor: pointer;
+}
+
+.success {
+  padding: 1rem;
+  background-color: lightgreen;
+}
+
+.error {
+  padding: 1rem;
+  background-color: tomato;
+}
+
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
